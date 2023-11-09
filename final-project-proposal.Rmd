@@ -1,0 +1,47 @@
+---
+title: "Proposal for P8105 Final Project"
+author: "Zilin Huang, Yuhan Wang, Yuqing Liu, Yiying Wu, Jiatong Li"
+date: "2023-11-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### The group members (names and UNIs)
+Zilin Huang (zh2596); Yuhan Wang (yw4200); Yuqing Liu (yl5219); Yiying Wu (yw3996); Jiatong Li (jl6647)
+
+### The tentative project title
+Examining the homelessness in California, 2017-2023
+
+### The motivation for this project
+* Homelessness has become a long term problem in the United States, which negatively affects cityscape and poses threats to residents’ life and property. <br>
+* To deal with this nationwide social issue, the California state government initiated the Homelessness’ Statewide Action Plan in the past few years in order to quantify and end the prevalence of homelessness under the coordinated effort of multiple state departments. Aligning with this goal, the Homeless Data Integration System (HDIS) is created as an integrated database system that records the status of the homeless accessing social and medical services in different sub-regions, differentiated by their race, gender, etc. 
+
+### The intended final products
+* A website that integrates the majority of our project, which includes: one page for 4-5 plots as part of Exploratory Data Analysis, one page including analysis of factors of homeless people using Generalized Linear Model (GLM) and Poisson Regression, one page for R-shiny dashboard and interactive map of the California state, and one page for the final report.
+* A short introductory video of our project, narrated by each of our group members.
+* A GitHub repository page including all of our work of codes, text reports and visualizations, and the original data.
+
+### The anticipated data sources 
+* We will use data from Homelessness Data Integration System (HDIS) which is a publicly available data source from the State of California, Business, Consumer Services, and Housing Agency. The Homelessness Data Integration System (HDIS) is a comprehensive data repository that aggregates and analyzes data from all 44 Continuums of Care (CoC) in California. 
+* Each Continuum of Care (CoC) gathers and shares information about the individuals it serves through various programs, including those designed to combat homelessness, provide outreach services to homeless populations, support permanent housing solutions, and align with California's Housing First goals. 
+* Demographic data from people receiving homeless response services by age, race, ethnicity, and gender included in Homelessness Data Integration System will also be used in our analysis. 
+
+
+### The planned analyses / visualizations / coding challenges 
+* The main challenges in coding and analysis we anticipate are model construction and the selection of predictive variables for this study.
+* Our plan involves conducting an analysis of homelessness figures within each Continuum of Care (CoC) and examining the sociodemographic profiles of individuals who have received assistance from these CoCs. We intend to utilize generalized linear models to investigate the associations between the number of homeless people in each CoC and various sociodemographic attributes of the recipients. So, careful consideration is needed when constructing the model and selecting the predictors of interest.
+
+
+### The planned timeline 
+11.3 — 11.11 Find more related datasets about the statistics of California homeless people. <br>
+11.8 Finish data cleaning. <br>
+11.11 Submit the proposal. <br>
+11.12 — 11.14 Begin working with data visualization. <br>
+11.15 Schedule a Project Review Meeting with one of the TAs. <br>
+11.16 — 11.30 Work with data visualization and model implementation. <br>
+12.1 Finish the first draft of the report. <br>
+12.9 Submit the report, website and video. <br>
+12.14 Present our project during class. <br>
