@@ -36,12 +36,12 @@ Examining the homelessness in California, 2017-2023
 
 
 ### The planned timeline 
-11.3 — 11.11 Find more related datasets about the statistics of California homeless people. <br>
-11.8 Finish data cleaning. <br>
-11.11 Submit the proposal. <br>
-11.12 — 11.14 Begin working with data visualization. <br>
-11.15 Schedule a Project Review Meeting with one of the TAs. <br>
-11.16 — 11.30 Work with data visualization and model implementation. <br>
-12.1 Finish the first draft of the report. <br>
-12.9 Submit the report, website and video. <br>
-12.14 Present our project during class. <br>
+* 11.3 — 11.11 Find more related datasets about the statistics of California homeless people. 
+* 11.8 Finish data cleaning. 
+* 11.11 Submit the proposal. 
+* 11.12 — 11.14 Begin working with data visualization. 
+* 11.15 Schedule a Project Review Meeting with one of the TAs. 
+* 11.16 — 11.30 Work with data visualization and model implementation. 
+* 12.1 Finish the first draft of the report. 
+* 12.9 Submit the report, website and video. 
+* 12.14 Present our project during class. 
